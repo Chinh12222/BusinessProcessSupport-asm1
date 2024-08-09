@@ -1,0 +1,13 @@
+C:\Users\Acer\OneDrive\Desktop\code database\database final\database final\bin\Debug\database final.exe
+C:\Users\Acer\OneDrive\Desktop\code database\database final\database final\bin\Debug\database final.exe.config
+C:\Users\Acer\OneDrive\Desktop\code database\database final\database final\obj\Debug\database final.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\code database\database final\database final\obj\Debug\database_final.AdminForm.resources
+C:\Users\Acer\OneDrive\Desktop\code database\database final\database final\obj\Debug\database_final.BookManagementForm.resources
+C:\Users\Acer\OneDrive\Desktop\code database\database final\database final\obj\Debug\database_final.BorrowerManagementForm.resources
+C:\Users\Acer\OneDrive\Desktop\code database\database final\database final\obj\Debug\database_final.BorrowingManagementForm.resources
+C:\Users\Acer\OneDrive\Desktop\code database\database final\database final\obj\Debug\database_final.Login.resources
+C:\Users\Acer\OneDrive\Desktop\code database\database final\database final\obj\Debug\database_final.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Desktop\code database\database final\database final\obj\Debug\database final.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Desktop\code database\database final\database final\obj\Debug\database final.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\code database\database final\database final\obj\Debug\database final.exe
+C:\Users\Acer\OneDrive\Desktop\code database\database final\database final\obj\Debug\database final.pdb
